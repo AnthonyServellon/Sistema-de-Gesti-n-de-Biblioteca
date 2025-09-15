@@ -1,5 +1,3 @@
-/// Se incluyo clase Prestamo -- Heidi ---///
-
 package biblioteca;
 
 import java.io.Serializable;
